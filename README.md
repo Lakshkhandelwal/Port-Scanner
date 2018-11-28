@@ -1,7 +1,7 @@
 # Port-Scanner
 It is a Simple Port Scanner using Python.
 
-This Port scanner works on all the Operating Systems wheter it a Windows machine or a Linux machine.
+This Port scanner works on all the Operating Systems whether it a Windows machine or a Linux machine.
 
 For using the Port Scanner follow the following Steps
 1. Run the Python file.
